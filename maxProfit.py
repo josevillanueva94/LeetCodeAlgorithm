@@ -21,4 +21,8 @@ class Solution:
 
         return maxSoFar
 
+    def multipleTransaction(t):
+        pass
+
+
 (Solution.maxProfit([1,2,3,-1, -4]))
