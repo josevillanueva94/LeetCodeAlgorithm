@@ -1,3 +1,4 @@
+#Dynamic
 n = 10
 cache = [None] * (n + 1)
 
